@@ -14,6 +14,7 @@ Note: This project will not be updated
 
 # Credits
 - My Group: Hassan, Aizat, Deng
+- My lecturer: Dr. Aznoora, UiTM Arau
 - SB Admin 2 template: https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 - Sticky Notes codes: https://code.tutsplus.com/tutorials/create-a-sticky-note-effect-in-5-easy-steps-with-css3-and-html5--net-13934
 - Pikaday Datepicker: https://github.com/dbushell/Pikaday
